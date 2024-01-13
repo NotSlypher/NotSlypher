@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
 <h3 align="center">A passionate and versatile software engineer with knowledge in various domains. Love to explore all the tech that pokes my interest.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notslypher" alt="notslypher" /></a> </p>
-
 - 🔭 I’m currently working on [Spring boot 3, Spring 6, Hibernate tutorial](https://github.com/NotSlypher/spring-boot-dev/tree/master)
 
 - 🌱 I’m currently learning **Spring boot3, Spring 6, Hibernate, AWS DevOps**
