@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Spring boot 3, Spring 6, Hibernate tutorial](https://github.com/NotSlypher/spring-boot-dev/tree/master)
 
-- 🌱 I’m currently learning **Spring boot3, Spring 6, Hibernate, AWS DevOps**
+- 🌱 I’m currently learning **ASP.NET, javascript, python, AWS DevOps**
 
 - 💬 Ask me about **Spring, AWS, CP, ASP.NET, Game Development Unity**
 
