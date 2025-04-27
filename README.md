@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
 <h3 align="center">A passionate and versatile software engineer with knowledge in various domains. Love to explore all the tech that pokes my interest.</h3>
 
-- 🔭 I’m currently working on [ASP.NET, React](https://github.com/NotSlypher/spring-boot-dev/tree/master)
+- 🔭 I’m currently working on [Spring Boot](https://github.com/NotSlypher/spring-boot-dev/tree/master)
 
-- 🌱 I’m currently learning **ASP.NET, javascript, python, AWS DevOps**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **AWS, CP, ASP.NET, Game Development Unity**
+- 💬 Ask me about **Spring Boot, AWS, CP, ASP.NET, Game Development Unity**
 
 - 📫 How to reach me **ayushgupta6719@gmail.com**
 
